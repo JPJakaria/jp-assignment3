@@ -1,3 +1,24 @@
 *{
           font-family: "Manrope", sans-serif;
 }
+
+.club-img1{
+          background-image:url(./Images/2.png);
+          background-size: cover;
+          background-position: center;
+          border-radius: 16px;
+}
+
+.club-img2{
+          background-image: url(./Images/3.png);
+          background-size: cover;
+          background-position: center;
+          border-radius: 16px;
+}
+
+.club-img3{
+          background-image: url(./Images/4.png);
+          background-size: cover;
+          background-position: center;
+          border-radius: 16px;
+}
